@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Sydney 👋
 
-<!--
-**sydneylbergstrom/sydneylbergstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate mathematics major with interests in applied mathematics, machine learning, and computational neuroscience. My work focuses on how representations shape learning, behavior, and decision-making.
 
-Here are some ideas to get you started:
+I've worked on:
+- Interpretable explanations of kernel methods
+- Representation choices in function approximation
+- Computational analysis of animal behavior using pose estimation
+- Applied modeling under uncertainty
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my code is kept private due to research sensitivity, but I'm happy to share selected work upon request.
+
+You can reach me at: sydb@sas.upenn.edu
