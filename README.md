@@ -8,6 +8,6 @@ I've worked on:
 - Computational analysis of animal behavior using pose estimation
 - Applied modeling under uncertainty
 
-Most of my code is kept private due to research sensitivity, but I'm happy to share selected work upon request.
+Some of my code is kept private due to research sensitivity, but I'm happy to share selected work upon request.
 
 You can reach me at: sydb@sas.upenn.edu
