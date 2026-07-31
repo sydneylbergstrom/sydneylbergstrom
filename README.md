@@ -1,13 +1,11 @@
-## Hi, I'm Sydney 👋
+## Sydney Bergstrom
 
-I'm an undergraduate mathematics major with interests in applied mathematics, machine learning, and computational neuroscience. My work focuses on how representations shape learning, behavior, and decision-making.
+I recently graduated from UPenn with a B.A. in Mathematics and minor in Statistics & Data Science. I'm currently working in Penn's Computational Cognitive Neuroscience Lab (Schapiro Lab) on questions related to in-context learning. More broadly, I'm interested in the connections between biological and artificial learning systems.
 
-I've worked on:
-- Interpretable explanations of kernel methods
-- Representation choices in function approximation
-- Computational analysis of animal behavior using pose estimation
-- Applied modeling under uncertainty
+My current project uses attention-only transformers and associative recall tasks to study how different attention mechanisms learn and retrieve key-value relationships. In particular, I'm comparing linear, quadratic (softmax), and hybrid attention architectures to understand how the models differ in their attention patterns, key-value binding, and retrieval errors.
 
-Some of my code is kept private due to research sensitivity, but I'm happy to share selected work upon request.
+Previously, I've worked on optimization-based MRI reconstruction and pose-estimation methods for analyzing animal behavior.
 
-You can reach me at: sydb@sas.upenn.edu
+Much of my work is in private research repositories, but I'm happy to share more about these projects on request.
+
+You can reach me at sydb@sas.upenn.edu
